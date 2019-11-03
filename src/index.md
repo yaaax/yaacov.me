@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Yaacov Cohen
-postsHeading: Latest posts
+postsHeading: Mes derniers articles
 archiveButtonText: See all posts
 socialImage: ''
 ---
