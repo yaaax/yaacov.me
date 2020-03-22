@@ -6,13 +6,13 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/yaaax/hylia",
+      "url": "https://gitlab.com/yaaax/",
+      "text": "GitLab",
       "external": true
     },
     {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/studiogoodimpact/",
+      "text": "GitHub",
+      "url": "https://github.com/yaaax/",
       "external": true
     }
   ]
