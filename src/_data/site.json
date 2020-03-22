@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
   "name": "yaacov.me",
-  "shortDesc": "aha moments after scratching my head",
+  "shortDesc": "\"aha\" moments after scratching my head",
   "url": "https://yaacov.me",
-  "authorEmail": "yaacov@goodimpact.studio",
+  "authorEmail": "contact@yaacov.me",
   "authorHandle": "@GoodImpactFr",
   "authorName": "Yaacov Cohen",
   "enableThirdPartyComments": true,
-  "maxPostsPerPage": 5,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
